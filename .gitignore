@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+config/.DS_Store
+
+# Claude local workspace
+.claude/
+
+# Local secrets and per-machine config
+.env
+.env.*
+*.env
+config/*.env
+config/stocks.md
+
+# Markdown notes and planning docs
+*.md
+
+docs/
+openclaw-deployment-guide_副本.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+
+# Runtime data and generated output
+data/
+output/
+*.db
+*.sqlite3
+
+# Logs and temp files
+*.log
+*.tmp
+
+# External dependency checkout
+external/daily_stock_analysis/
+
+# If external checkout is ever tracked later, still ignore runtime artifacts
+external/**/.env
+external/**/.venv/
+external/**/logs/
+external/**/reports/
+external/**/data/
+external/**/node_modules/
