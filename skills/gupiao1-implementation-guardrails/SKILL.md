@@ -11,8 +11,8 @@ description: Apply minimal-scope engineering changes in gupiao1 while preserving
 
 ## Read First
 
-1. [CLAUDE.md](/Users/apple/xinxisouji/gupiao1/CLAUDE.md)
-2. [./.claude/rules/05-engineering-workflow.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/05-engineering-workflow.md)
+1. [CLAUDE.md](../../CLAUDE.md)
+2. [./.claude/rules/05-engineering-workflow.md](../../.claude/rules/05-engineering-workflow.md)
 3. 当前改动直接相关的规则文件
 
 ## Implementation Rules

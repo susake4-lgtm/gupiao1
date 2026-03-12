@@ -9,12 +9,12 @@ description: Route a user request to the correct gupiao1 subproject, set a minim
 
 ## Read First
 
-1. [CLAUDE.md](/Users/apple/xinxisouji/gupiao1/CLAUDE.md)
-2. [./.claude/rules/README.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/README.md)
+1. [CLAUDE.md](../../CLAUDE.md)
+2. [./.claude/rules/README.md](../../.claude/rules/README.md)
 3. 按需读取：
-   - [./.claude/rules/01-project-scope.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/01-project-scope.md)
-   - [./.claude/rules/04-mvp-boundaries.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/04-mvp-boundaries.md)
-   - [./.claude/rules/05-engineering-workflow.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/05-engineering-workflow.md)
+   - [./.claude/rules/01-project-scope.md](../../.claude/rules/01-project-scope.md)
+   - [./.claude/rules/04-mvp-boundaries.md](../../.claude/rules/04-mvp-boundaries.md)
+   - [./.claude/rules/05-engineering-workflow.md](../../.claude/rules/05-engineering-workflow.md)
 
 ## Routing Workflow
 

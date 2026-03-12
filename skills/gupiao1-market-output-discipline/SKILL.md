@@ -7,10 +7,10 @@ description: Keep market-facing work in gupiao1 aligned with source trust rules,
 
 ## Read First
 
-1. [./.claude/rules/02-source-trust-and-facts.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/02-source-trust-and-facts.md)
-2. [./.claude/rules/06-watchlist-and-thesis.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/06-watchlist-and-thesis.md)
-3. [./.claude/rules/07-source-registry.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/07-source-registry.md)
-4. [./.claude/rules/08-report-templates.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/08-report-templates.md)
+1. [./.claude/rules/02-source-trust-and-facts.md](../../.claude/rules/02-source-trust-and-facts.md)
+2. [./.claude/rules/06-watchlist-and-thesis.md](../../.claude/rules/06-watchlist-and-thesis.md)
+3. [./.claude/rules/07-source-registry.md](../../.claude/rules/07-source-registry.md)
+4. [./.claude/rules/08-report-templates.md](../../.claude/rules/08-report-templates.md)
 
 ## Scope Discipline
 

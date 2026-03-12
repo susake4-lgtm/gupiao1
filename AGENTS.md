@@ -10,9 +10,9 @@
 
 开始任何非闲聊任务前，按下面顺序读取：
 
-1. [CLAUDE.md](/Users/apple/xinxisouji/gupiao1/CLAUDE.md)
-2. [README.md](/Users/apple/xinxisouji/gupiao1/README.md)
-3. [./.claude/rules/README.md](/Users/apple/xinxisouji/gupiao1/.claude/rules/README.md)
+1. [CLAUDE.md](CLAUDE.md)
+2. [README.md](README.md)
+3. [./.claude/rules/README.md](./.claude/rules/README.md)
 4. 只读取当前任务直接相关的规则文件
 
 ## Project Boundaries
@@ -55,9 +55,9 @@
 
 技能文件路径：
 
-- [skills/gupiao1-task-routing/SKILL.md](/Users/apple/xinxisouji/gupiao1/skills/gupiao1-task-routing/SKILL.md)
-- [skills/gupiao1-implementation-guardrails/SKILL.md](/Users/apple/xinxisouji/gupiao1/skills/gupiao1-implementation-guardrails/SKILL.md)
-- [skills/gupiao1-market-output-discipline/SKILL.md](/Users/apple/xinxisouji/gupiao1/skills/gupiao1-market-output-discipline/SKILL.md)
+- [skills/gupiao1-task-routing/SKILL.md](skills/gupiao1-task-routing/SKILL.md)
+- [skills/gupiao1-implementation-guardrails/SKILL.md](skills/gupiao1-implementation-guardrails/SKILL.md)
+- [skills/gupiao1-market-output-discipline/SKILL.md](skills/gupiao1-market-output-discipline/SKILL.md)
 
 ## How To Use Skills
 
