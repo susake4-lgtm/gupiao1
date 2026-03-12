@@ -204,7 +204,7 @@ fi
   echo
   echo "### 新闻（${news_status}）"
   echo '```text'
-  safe_excerpt "$NEWS_LOG" 10
+  safe_excerpt "$NEWS_LOG" 5
   echo '```'
   echo
   echo "## 强化"

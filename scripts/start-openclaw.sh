@@ -3,6 +3,7 @@ set -euo pipefail
 
 ROOT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 ENV_FILE="$ROOT_DIR/config/dsa.env"
+BIND_MODE="loopback"
 PORT="18789"
 
 if [ -f "$ENV_FILE" ]; then
@@ -10,6 +11,7 @@ if [ -f "$ENV_FILE" ]; then
   # shellcheck disable=SC1090
   source "$ENV_FILE"
   set +a
+  BIND_MODE="${OPENCLAW_BIND:-$BIND_MODE}"
   PORT="${OPENCLAW_PORT:-$PORT}"
 fi
 
@@ -19,4 +21,4 @@ if ! command -v openclaw >/dev/null 2>&1; then
   exit 1
 fi
 
-exec openclaw gateway --port "$PORT" --verbose "$@"
+exec openclaw gateway --bind "$BIND_MODE" --port "$PORT" --verbose "$@"

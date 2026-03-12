@@ -14,6 +14,10 @@ config/stocks.md
 
 # Markdown notes and planning docs
 *.md
+!AGENTS.md
+!skills/
+!skills/**/
+!skills/**/SKILL.md
 
 docs/
 openclaw-deployment-guide_副本.txt
@@ -37,6 +41,8 @@ output/
 
 # External dependency checkout
 external/daily_stock_analysis/
+external/acp-bridge/
+external/.DS_Store
 
 # If external checkout is ever tracked later, still ignore runtime artifacts
 external/**/.env
